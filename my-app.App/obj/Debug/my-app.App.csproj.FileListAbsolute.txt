@@ -1,0 +1,15 @@
+C:\Users\jsalinas\source\repos\my-app test\my-app.App\bin\Debug\my-app.App.dll.config
+C:\Users\jsalinas\source\repos\my-app test\my-app.App\bin\Debug\my-app.App.dll
+C:\Users\jsalinas\source\repos\my-app test\my-app.App\bin\Debug\my-app.App.pdb
+C:\Users\jsalinas\source\repos\my-app test\my-app.App\bin\Debug\EntityFramework.dll
+C:\Users\jsalinas\source\repos\my-app test\my-app.App\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jsalinas\source\repos\my-app test\my-app.App\bin\Debug\EntityFramework.xml
+C:\Users\jsalinas\source\repos\my-app test\my-app.App\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jsalinas\source\repos\my-app test\my-app.App\obj\Debug\my-app.App.csprojAssemblyReference.cache
+C:\Users\jsalinas\source\repos\my-app test\my-app.App\obj\Debug\my-app.App.csproj.CoreCompileInputs.cache
+C:\Users\jsalinas\source\repos\my-app test\my-app.App\obj\Debug\my-app.App.csproj.CopyComplete
+C:\Users\jsalinas\source\repos\my-app test\my-app.App\obj\Debug\my-app.App.dll
+C:\Users\jsalinas\source\repos\my-app test\my-app.App\obj\Debug\my-app.App.pdb
+C:\Users\jsalinas\source\repos\my-app test\my-app.App\bin\Debug\my-app.DAL.dll
+C:\Users\jsalinas\source\repos\my-app test\my-app.App\bin\Debug\my-app.DAL.pdb
+C:\Users\jsalinas\source\repos\my-app test\my-app.App\bin\Debug\my-app.DAL.dll.config
